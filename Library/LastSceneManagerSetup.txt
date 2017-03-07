@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Ramon_Apartment.unity
+  isLoaded: 1
+  isActive: 1
